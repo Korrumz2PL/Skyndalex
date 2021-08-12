@@ -1,14 +1,11 @@
-# KriveBot v3.0 (wersja kodu)
-## Aktualnie znane błędy:
+# Co to jest?
 
-```
-- uskodzone args
-- uszkodzone łączenie z bazą
-- błąd z klasami (client) [tymczasowo usunięte]
-- uszkodzony cały handler komend
-```
+- Jest to nowy kod bota
 
-## Linki
+# Czy to kolejny rewrite?
 
-- Discord: https://discord.gg/nQvXFFqjwP
-- Status: https://status.krivebot.xyz 
+Nie. Jest to kolejny większy patchfix kodu. Zmieniają się handlery i kody komend. Zwyczajnie, w zasadzie zbyt dużo rzeczy tu się zmienia i można to uznać jako coś kompletnie nowego (w teorii)
+
+# Branch na discord.js v12 wspierany?
+
+Być może, przyszłość tego kodu jest niepewna
